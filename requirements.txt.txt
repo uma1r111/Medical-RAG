@@ -1,0 +1,17 @@
+# pip install for reproducibility
+langchain
+langchain-community
+pymupdf
+faiss-cpu
+rank_bm25
+transformers
+sentence-transformers
+accelerate
+tqdm
+nltk
+rouge-score
+summarizers
+scikit-learn
+pandas
+seaborn
+matplotlib
